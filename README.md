@@ -9,48 +9,9 @@
 ## 🔍 Overview
 We introduce **The Photographer’s Eye (PhotoEye)**, a multimodal large language model trained to *see* and *critique* photographs like professional photographers.
 
-<p align="center">
-  <img src="head.pdf" alt="Overview examples of user-model interactions" width="700"/>
-</p>
-
----
-
-## 📊 Dataset: PhotoCritique
-We release **PhotoCritique**, a large-scale instruction-tuning dataset with ~2.63M samples.
-
-### From Raw Comments to Structured Critique
-<p align="center">
-  <img src="app_1.pdf" alt="Example pipeline: from raw comments to critique" width="650"/>
-</p>
-
-### Example Data
-<p align="center">
-  <img src="pc.pdf" alt="PhotoCritique examples" width="650"/>
-</p>
-
-### Diversity of Images
-<p align="center">
-  <img src="imgs.pdf" alt="Diversity of images in PhotoCritique" width="650"/>
-</p>
-
----
-
-## 🧠 Model: PhotoEye
-We propose **PhotoEye**, which fuses visual representations from multiple vision encoders under language guidance.
-
-<p align="center">
-  <img src="fw.pdf" alt="PhotoEye model architecture" width="700"/>
-</p>
-
----
-
-## 📈 Benchmark: PhotoBench
-We evaluate on **PhotoBench**, a benchmark covering hundreds of sub-topics across aesthetics, composition, exposure, post-processing, etc.
-
-### Example Questions
-<p align="center">
-  <img src="bench.pdf" alt="PhotoBench examples" width="700"/>
-</p>
+<div align="center">
+  <img src="head.png" alt="Overview examples of user-model interactions" width="100%"/>
+</div>
 
 ---
 
@@ -62,3 +23,42 @@ We evaluate on **PhotoBench**, a benchmark covering hundreds of sub-topics acros
 - **PhotoBench**: [Google Drive](https://drive.google.com/file/d/1vFQA3Lrj3USukwKhhQm3cTGjpooHzMlu/view?usp=drive_link).  
   This version is a subset filtered using an LLM.  
   A future release may include a version curated by expert human annotators.
+
+---
+
+## 📊 Dataset: PhotoCritique
+We release **PhotoCritique**, a large-scale instruction-tuning dataset with ~2.63M samples.
+
+### From Raw Comments to Structured Critique
+<div align="center">
+  <img src="app_1.png" alt="Example pipeline: from raw comments to critique" width="100%"/>
+</div>
+
+### Example Data
+<div align="center">
+  <img src="pc.png" alt="PhotoCritique examples" width="100%"/>
+</div>
+
+### Diversity of Images
+<div align="center">
+  <img src="imgs.png" alt="Diversity of images in PhotoCritique" width="100%"/>
+</div>
+
+---
+
+## 🧠 Model: PhotoEye
+We propose **PhotoEye**, which fuses visual representations from multiple vision encoders under language guidance.
+
+<div align="center">
+  <img src="fw.png" alt="PhotoEye model architecture" width="100%"/>
+</div>
+
+---
+
+## 📈 Benchmark: PhotoBench
+We evaluate on **PhotoBench**, a benchmark covering hundreds of sub-topics across aesthetics, composition, exposure, post-processing, etc.
+
+### Example Questions
+<div align="center">
+  <img src="bench.png" alt="PhotoBench examples" width="100%"/>
+</div>
