@@ -50,7 +50,7 @@ We release **PhotoCritique**, a large-scale instruction-tuning dataset with ~2.6
 We propose **PhotoEye**, which fuses visual representations from multiple vision encoders under language guidance.
 
 <div align="center">
-  <img src="fw.png" alt="PhotoEye model architecture" width="100%"/>
+  <img src="images/fw.png" alt="PhotoEye model architecture" width="100%"/>
 </div>
 
 ---
