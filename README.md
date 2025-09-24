@@ -10,7 +10,7 @@
 We introduce **The Photographer’s Eye (PhotoEye)**, a multimodal large language model trained to *see* and *critique* photographs like professional photographers.
 
 <div align="center">
-  <img src="head.png" alt="Overview examples of user-model interactions" width="100%"/>
+  <img src="images/head.png" alt="Overview examples of user-model interactions" width="100%"/>
 </div>
 
 ---
@@ -31,17 +31,17 @@ We release **PhotoCritique**, a large-scale instruction-tuning dataset with ~2.6
 
 ### From Raw Comments to Structured Critique
 <div align="center">
-  <img src="app_1.png" alt="Example pipeline: from raw comments to critique" width="100%"/>
+  <img src="images/app_1.png" alt="Example pipeline: from raw comments to critique" width="100%"/>
 </div>
 
 ### Example Data
 <div align="center">
-  <img src="pc.png" alt="PhotoCritique examples" width="100%"/>
+  <img src="images/pc.png" alt="PhotoCritique examples" width="100%"/>
 </div>
 
 ### Diversity of Images
 <div align="center">
-  <img src="imgs.png" alt="Diversity of images in PhotoCritique" width="100%"/>
+  <img src="images/imgs.png" alt="Diversity of images in PhotoCritique" width="100%"/>
 </div>
 
 ---
@@ -60,5 +60,5 @@ We evaluate on **PhotoBench**, a benchmark covering hundreds of sub-topics acros
 
 ### Example Questions
 <div align="center">
-  <img src="bench.png" alt="PhotoBench examples" width="100%"/>
+  <img src="images/bench.png" alt="PhotoBench examples" width="100%"/>
 </div>
