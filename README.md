@@ -16,7 +16,7 @@ We introduce **The Photographer’s Eye (PhotoEye)**, a multimodal large languag
 ---
 
 ## 📂 Resources
-- Due to company policy, the **PhotoCritique** dataset cannot be publicly released at this time.  
+- Due to company policy, the **PhotoCritique** dataset is not publicly available at this time.
   However, in our paper we provide a detailed description of how to derive PhotoCritique from the original DPChallenge dataset, **DPC2022** ([paper](https://arxiv.org/pdf/2211.15378)).  
   The DPC2022 dataset can be downloaded here: [Google Drive](https://drive.google.com/drive/folders/1KqZZCwdA3hw09jkavmJYjID_qeibRXwM?usp=drive_link).
 
