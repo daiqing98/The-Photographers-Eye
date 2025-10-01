@@ -62,3 +62,15 @@ We evaluate on **PhotoBench**, a benchmark covering hundreds of sub-topics acros
 <div align="center">
   <img src="images/bench.png" alt="PhotoBench examples" width="100%"/>
 </div>
+
+## 📚 Citation
+
+```bibtex
+@inproceedings{qi2025photographers,
+  title={The Photographer's Eye: Teaching Multimodal Large Language Models to See, and Critique Like Photographers},
+  author={Qi, Yichong and Zhang, Xiangyu and Wang, Xinyue and Zhou, Yuchen and Li, Zhiwei and Chen, Yiran and Liu, Shikun and Zhao, Linjie and He, Yinan and Tang, Hao and Zhang, Yixuan and Wang, Xin and Xu, Minghao and Wang, Lei and Lin, Dahua},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025},
+  pages={to appear},
+  url={https://openaccess.thecvf.com/content/CVPR2025/papers/Qi_The_Photographers_Eye_Teaching_Multimodal_Large_Language_Models_to_See_CVPR_2025_paper.pdf}
+}
