@@ -4,7 +4,7 @@
 > Official repository for the CVPR 2025 paper:  
 > [The Photographer's Eye: Teaching Multimodal Large Language Models to See, and Critique Like Photographers](https://openaccess.thecvf.com/content/CVPR2025/papers/Qi_The_Photographers_Eye_Teaching_Multimodal_Large_Language_Models_to_See_CVPR_2025_paper.pdf)
 
----
+
 
 ## 🔍 Overview
 We introduce **The Photographer’s Eye (PhotoEye)**, a multimodal large language model trained to *see* and *critique* photographs like professional photographers.
@@ -13,7 +13,6 @@ We introduce **The Photographer’s Eye (PhotoEye)**, a multimodal large languag
   <img src="images/head.png" alt="Overview examples of user-model interactions" width="100%"/>
 </div>
 
----
 
 ## 📂 Resources
 
@@ -27,7 +26,6 @@ We introduce **The Photographer’s Eye (PhotoEye)**, a multimodal large languag
   This version is a subset filtered using an LLM.  
   A future release may include a version curated by expert human annotators.
 
----
 
 ## 📊 Dataset: PhotoCritique
 We release **PhotoCritique**, a large-scale instruction-tuning dataset with ~2.63M samples.
@@ -47,7 +45,6 @@ We release **PhotoCritique**, a large-scale instruction-tuning dataset with ~2.6
   <img src="images/imgs.png" alt="Diversity of images in PhotoCritique" width="100%"/>
 </div>
 
----
 
 ## 🧠 Model: PhotoEye
 We propose **PhotoEye**, which fuses visual representations from multiple vision encoders under language guidance.
@@ -56,7 +53,6 @@ We propose **PhotoEye**, which fuses visual representations from multiple vision
   <img src="images/fw.png" alt="PhotoEye model architecture" width="100%"/>
 </div>
 
----
 
 ## 📈 Benchmark: PhotoBench
 We evaluate on **PhotoBench**, a benchmark covering hundreds of sub-topics across aesthetics, composition, exposure, post-processing, etc.
